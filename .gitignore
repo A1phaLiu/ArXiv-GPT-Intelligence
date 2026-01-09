@@ -1,0 +1,6 @@
+.env                
+arxiv_history.db
+__pycache__/
+reports/
+.vscode/
+other/
